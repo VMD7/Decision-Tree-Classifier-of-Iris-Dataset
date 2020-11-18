@@ -10,7 +10,7 @@ Also, I deployed this Machine Learning model on Heroku and created a Web-App (ht
 
 To understand this repository follow the below steps:
 
-1) First Clone, Fork or Download this repository or you can run Task6.ipynb on Google Colab. 
+1) First Clone, Fork or Download this repository or you can run Task6Colab.ipynb on Google Colab. 
 
 2) The dataset used is (https://bit.ly/3kXTdox).
 
