@@ -1,6 +1,6 @@
 # Iris Plant Classifier
 
-This is Task6 of The Sparks Foundation GRIP. In this task we have to classify the data with the help of Decision Tree Classifier algorithm and visulize it also.
+This is Task-6 of The Sparks Foundation GRIP. In this task we have to classify the data with the help of Decision Tree Classifier algorithm and visulize it also.
 
 In this repository I used Decision Tree Classifier algorithm to identify the class of a Iris plant based on its features. 
 
