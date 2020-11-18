@@ -6,7 +6,7 @@ In this repository I used Decision Tree Classifier algorithm to identify the cla
 
 Also, I deployed this Machine Learning model on Heroku and created a Web-App (https://irisp.herokuapp.com/).
 
-## Code of Score Prediction Model
+## Code of Iris Plant Classifier
 
 To understand this repository follow the below steps:
 
